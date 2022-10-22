@@ -11,4 +11,5 @@ print("View: ", yt.views)
 
 yd = yt.streams.get_highest_resolution()
 
-yd.download('/Users/angel/OneDrive/Desktop')
+#add your own path to download
+yd.download('')
